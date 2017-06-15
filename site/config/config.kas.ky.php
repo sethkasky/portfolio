@@ -16,7 +16,7 @@ for more information: http://getkirby.com/license
 */
 
 c::set('license', 'K2-PERSONAL-f199466bc8167ef28659dd2da0596879');
-c::set('debug', true);
+c::set('debug', false);
 c::set('ssl', true);
 c::set('timezone','MST');
 c::set('plugin.ga.id', 'UA-39674942-5');
