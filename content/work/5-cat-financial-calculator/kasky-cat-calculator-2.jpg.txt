@@ -1,0 +1,17 @@
+Imgbgcolorhex: #000000
+
+----
+
+Imgalt: An iPad displaying the email results screen for the CAT Financial Calculator app.
+
+----
+
+Imgtitle: 
+
+----
+
+Imgcaption: Dealers can send calculations to the client's email during the consultation.
+
+----
+
+Sort: 2

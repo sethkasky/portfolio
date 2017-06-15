@@ -1,0 +1,17 @@
+Imgbgcolorhex: #ed3c26
+
+----
+
+Imgalt: An iPad displaying the title screen of the Crop to Cup publication.
+
+----
+
+Imgtitle: 
+
+----
+
+Imgcaption: Title Screen
+
+----
+
+Sort: 1

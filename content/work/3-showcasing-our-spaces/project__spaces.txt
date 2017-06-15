@@ -1,0 +1,37 @@
+Bg: #F05F5A
+
+----
+
+Color: #ffffff
+
+----
+
+Line: 
+
+----
+
+Title: Showcasing Our Spaces
+
+----
+
+Text: The Deskpass marketing site does a great job explaining how the service works and who it is for, but the one thing it's missing is individualized space pages for speed and that sweet sweet SEO ranking.
+
+----
+
+Category: User Experience, Web Design
+
+----
+
+Client: Deskpass
+
+----
+
+Recognition: 
+
+----
+
+Collaborators: 
+
+----
+
+Featured: true

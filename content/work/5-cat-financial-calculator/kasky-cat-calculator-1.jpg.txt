@@ -1,0 +1,17 @@
+Imgbgcolorhex: #ffce12
+
+----
+
+Imgalt: An iPad displaying an empty calculate screen for the CAT Financial Calculator app.
+
+----
+
+Imgtitle: 
+
+----
+
+Imgcaption: The user is prompted to fill out the form prior to submitting a calculation.
+
+----
+
+Sort: 1

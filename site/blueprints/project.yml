@@ -1,0 +1,66 @@
+title: Project
+
+files:
+  sortable: true
+  fields:
+    imgbgcolorhex:
+      label: Image Background Color Hex
+      type: text
+    imgalt:
+      label: Image Alt
+      type: text
+    imgtitle:
+      label: Image Title
+      type: text
+    imgcaption:
+      label: Image Caption
+      type: textarea
+
+pages: false
+
+fields:
+  bg:
+    label: Background Hex Color
+    type:  text
+    width: 1/2
+    icon: paint-brush
+    required: true
+
+  color:
+    label: Text Hex Color
+    type:  text
+    width: 1/2
+    icon: paint-brush
+    required: true
+
+  line:
+    type: line
+
+  title:
+    label: Title
+    type:  text
+
+  text:
+    label: Intro Text
+    type:  textarea
+
+  category:
+    label: Category
+    type:  text
+    width: 1/2
+
+  client:
+    label: Company
+    type:  text
+    width: 1/2
+
+  collaborators:
+    label: Collaborators
+    type:  textarea
+    width: 1/2
+
+  featured:
+    label: Featured
+    type: toggle
+    text: yes/no
+    width: 1/2

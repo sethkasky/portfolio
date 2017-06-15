@@ -1,0 +1,13 @@
+Imgbgcolorhex: #f2f2f2
+
+----
+
+Imgalt: A side by side screenshot of responsive internal pages for the Next Door Project in Residence website.
+
+----
+
+Imgtitle: 
+
+----
+
+Imgcaption: Responsive layouts of internal pages

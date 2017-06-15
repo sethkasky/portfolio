@@ -1,0 +1,45 @@
+Bg: #ee3125
+
+----
+
+Color: #ffffff
+
+----
+
+Line: 
+
+----
+
+Title: Building Good Neighbors
+
+----
+
+Text: Project In Residence is a 6-month coworking residency offered to a selected early-stage startup at State Farm’s financial community hub, Next Door. My goal as the designer and front-end developer was to communicate Project in Residence’s purpose and rules, showcase past selected residents, and encourage local Chicago applicants.
+
+----
+
+Category: Web Design, Front-End Development
+
+----
+
+Client: State Farm
+
+----
+
+Recognition: 
+
+Art Director - Ryan Corson
+Writer - Nick Georgas
+Photographer - Gail Matesevac
+
+----
+
+Collaborators: 
+
+Art Director - Ryan Corson
+Writer - Nick Georgas
+Photographer - Gail Matesevac
+
+----
+
+Featured: false

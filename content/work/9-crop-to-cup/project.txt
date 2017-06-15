@@ -1,0 +1,33 @@
+Bg: #000000
+
+----
+
+Color: #ffffff
+
+----
+
+Line: 
+
+----
+
+Title: Crop to Cup
+
+----
+
+Text: Crop to Cup is an iPad publication that gives the reader an inside look into the coffee industry. Interactive articles exhibited the entire process from the harvesting of coffee cherries, all the way to cupping and roasting of the coffee beans. Interactive features were incorporated throughout the publication to spark and maintain the viewer’s interest.
+
+----
+
+Category: Digital Publication
+
+----
+
+Client: 
+
+----
+
+Collaborators: 
+
+----
+
+Featured: false

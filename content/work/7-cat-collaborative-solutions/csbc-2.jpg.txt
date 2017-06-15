@@ -1,0 +1,13 @@
+Imgbgcolorhex: #ffcd10
+
+----
+
+Imgalt: Side by side image of an iPhone and iPad displaying an internal landing page of the CSBC project.
+
+----
+
+Imgtitle: 
+
+----
+
+Imgcaption: Responsive, targeted landing pages were sent to prospective clients while they attended ConExpo.

@@ -1,0 +1,30 @@
+title: Home
+
+fields:
+  title:
+    label: Title
+    type:  text
+
+  line:
+    type: line
+
+  intro:
+    label: Intro
+    type: Text
+
+  line:
+    type: line
+
+  text:
+    label: Text
+    type:  textarea
+
+  irl:
+    label: IRL
+    type:  textarea
+    width: 1/2
+
+  links:
+    label: URL
+    type:  textarea
+    width: 1/2

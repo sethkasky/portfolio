@@ -1,0 +1,13 @@
+Imgbgcolorhex: #88d4e2
+
+----
+
+Imgalt: A screenshot of the main page for the Next Door Project in Residence website.
+
+----
+
+Imgtitle: 
+
+----
+
+Imgcaption: Homepage outlining the residency

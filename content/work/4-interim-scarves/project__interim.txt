@@ -1,0 +1,37 @@
+Bg: #71737f
+
+----
+
+Color: #ffffff
+
+----
+
+Line: 
+
+----
+
+Title: Stitching a Brand Together
+
+----
+
+Text: Interim Scarves is a collaboration with my wife, Lynda. She has a talent for creating beautiful, one-of-a-kind crocheted pieces and wanted to sell the creations online during the fall and winter. We worked together to create an identity that holds to the same qualities as the pieces.
+
+----
+
+Category: Branding, Photography, Web&nbsp;Design
+
+----
+
+Client: Interim Scarves
+
+----
+
+Recognition: 
+
+----
+
+Collaborators: 
+
+----
+
+Featured: false

@@ -1,0 +1,13 @@
+Imgalt: A MacBook displaying the main landing page of the CSBC project.
+
+----
+
+Imgtitle: 
+
+----
+
+Imgcaption: The main landing page outlined the benefits of Collaborative Solutions.
+
+----
+
+Imgbgcolorhex: #f2f2f2

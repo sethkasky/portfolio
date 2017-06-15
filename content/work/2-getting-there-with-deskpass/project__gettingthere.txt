@@ -1,0 +1,48 @@
+Title: Getting There with Deskpass
+
+----
+
+Tags: 
+
+----
+
+Text: One of the biggest challenges Deskpass had to address when building the platform was navigating members into coworking locations. Coworking spaces come in all shapes and sizes and have various security measures implemented in order to access their building.
+
+----
+
+Year: 
+
+----
+
+Credits: 
+
+----
+
+Bg: #1e3746
+
+----
+
+Color: #ffffff
+
+----
+
+Category: User Experience, Front-End Development
+
+----
+
+Client: Deskpass
+
+----
+
+Line: 
+
+----
+
+Collaborators: 
+
+Engineer - Bryan Purcell
+Engineer - Tony Adams
+
+----
+
+Featured: true

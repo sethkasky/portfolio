@@ -1,0 +1,17 @@
+Imgbgcolorhex: 
+
+----
+
+Imgalt: 
+
+----
+
+Imgtitle: 
+
+----
+
+Imgcaption: 
+
+----
+
+Sort: 4

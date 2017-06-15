@@ -1,0 +1,44 @@
+Bg: #ffcd10
+
+----
+
+Color: #222222
+
+----
+
+Line: 
+
+----
+
+Title: Collaborating with CAT
+
+----
+
+Text: Caterpillar utilized targeted landing pages to educate its customers about the benefits of Collaborative Solutions, a platform designed to improve construction site performance. I designed responsive landing pages to reach customers when it launched at&nbsp;ConExpo, an international trade show for the construction industry.
+
+----
+
+Category: Web Design
+
+----
+
+Client: CAT
+
+----
+
+Recognition: 
+
+Firm - Simantel
+Creative Director - Chris Moehn
+Art Director - Dave Rawlins
+
+----
+
+Collaborators: 
+
+Firm - Simantel
+Art Director - Dave Rawlins
+
+----
+
+Featured: false

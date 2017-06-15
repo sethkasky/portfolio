@@ -1,0 +1,17 @@
+Imgbgcolorhex: #f2f2f2
+
+----
+
+Imgalt: An iPad displaying interactive elements of the Crop to Cup publication.
+
+----
+
+Imgtitle: 
+
+----
+
+Imgcaption: Interactive elements integrated throughout the publication
+
+----
+
+Sort: 4

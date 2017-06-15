@@ -1,0 +1,425 @@
+img {
+  max-width: 100%;
+}
+
+figure {
+  margin: 0;
+  line-height: 0;
+}
+
+// Navigation
+
+.navbar {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  z-index: 100;
+  display: block;
+  margin: 0 auto;
+  background-color: rgba(0, 0, 0, .75);
+  color: #fff;
+  -webkit-backdrop-filter: blur(4px);
+  &__name {
+    display: inline-block;
+    margin-top: 11px;
+    margin-bottom: 11px;
+    margin-left: 20px;
+    text-decoration: none;
+    color: hsla(0, 0%, 100%, .5);
+    transition: color 0.125s ease-in-out;
+    &:hover {
+      color: white;
+    }
+    &-title {
+      display: inline-block;
+      color: white;
+      }
+    }
+  &__nav {
+    display: inline-block;
+    float: right;
+  }
+  &__arrow {
+    padding: 11px 20px;
+    display: inline-block;
+  }
+  &__arrow:hover {
+    background-color: hsla(0, 0%, 100%, .25);
+  }
+}
+
+@include small-breakpoint {
+  .hide-small {
+    display: none;
+  }
+}
+
+// Footer
+.footer {
+  @extend .padding;
+  background-color: rgba(0, 0, 0, .75);
+  color: $text-reverse;
+  &__home {
+    padding-bottom: 2%;
+    color: #A2AAAD;
+  }
+}
+
+// Home
+
+.home {
+  &__intro {
+    height: 70vh;
+    padding: 5vh 0 5vh 0;
+    background-color: #2E008B;
+    color: $text-reverse;
+    background: linear-gradient(135deg, #2e008b, #cf73ba);
+    // background-size: 200% 200%;
+    //
+    // -webkit-animation: homeIntro 30s ease infinite;
+    // -moz-animation: homeIntro 30s ease infinite;
+    // -o-animation: homeIntro 30s ease infinite;
+    // animation: homeIntro 30s ease infinite;
+    //
+    // @-webkit-keyframes homeIntro {
+    //     0%{background-position:0% 50%}
+    //     50%{background-position:100% 50%}
+    //     100%{background-position:0% 50%}
+    // }
+    // @-moz-keyframes homeIntro {
+    //     0%{background-position:0% 50%}
+    //     50%{background-position:100% 50%}
+    //     100%{background-position:0% 50%}
+    // }
+    // @-o-keyframes homeIntro {
+    //     0%{background-position:0% 50%}
+    //     50%{background-position:100% 50%}
+    //     100%{background-position:0% 50%}
+    // }
+    // @keyframes homeIntro {
+    //     0%{background-position:0% 50%}
+    //     50%{background-position:100% 50%}
+    //     100%{background-position:0% 50%}
+    // }
+    & a {
+        color: rgba(255,255,255,1);
+        padding-bottom: 2px;
+        border-bottom: 1px solid rgba(255,255,255,0.25);
+        transition: border-bottom 0.125s ease-in-out;
+      &:hover {
+        color: rgba(255,255,255,1);
+        text-decoration: none;
+        border-bottom: 1px solid rgba(255,255,255,0.5);
+      }
+    }
+    &-top {
+      height: 50%;
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+    }
+    &-bottom {
+      height: 50%;
+      align-items: flex-end;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+  &__social {
+    opacity: 1;
+  }
+  &__casestudies {
+
+  }
+  &__projects {
+    li {
+      border-top: 1px solid #e8eaea;
+      padding: 0.5em 0;
+      transition: background-color 0.25s ease-in-out;
+      &:hover {
+        background-color: #f9f9f9;
+      }
+      }
+      li:first-child {
+        border-top: none;
+      }
+      &-title {
+        color: #333F48;
+      }
+      &-category {
+        color: #A2AAAD;
+      }
+      &-arrow {
+        color: #2E008B;
+      }
+  }
+  &__animation {
+    &-1 {
+      animation-duration: 1.25s;
+      animation-delay: 0s;
+    }
+    &-2 {
+      animation-duration: 1.125s;
+      animation-delay: 0.125s;
+    }
+    &-3 {
+      animation-duration: 1s;
+      animation-delay: 0.25s;
+    }
+    &-4 {
+      animation-duration: 1s;
+      animation-delay: 0.3125s;
+    }
+    &-5 {
+      animation-duration: 1s;
+      animation-delay: 0.3125s;
+    }
+  }
+}
+
+.home__social a {
+  border-bottom: 1px solid rgba(255,255,255,0);
+}
+
+a.home__name {
+  border-bottom: 1px solid rgba(255,255,255,0);
+  color: rgba(255,255,255,0.5);
+  transition: color 0.125s ease-in-out;
+}
+
+a.home__name:hover {
+  opacity: 1;
+  border-bottom: 1px solid rgba(255,255,255,0);
+  color: rgba(255,255,255,1);
+}
+
+.home__social-icon {
+  margin-right: 10px;
+}
+
+a.home__social-icon:hover {
+  border-bottom: 1px solid rgba(255,255,255,0);
+  opacity: 0.5;
+  transition: opacity 0.125s ease-in-out;
+}
+
+@include medium-breakpoint {
+  .home__intro {
+    height: auto;
+  }
+}
+
+.new {
+  font-size: 70%;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  background-color: #2E008B;
+  color: white;
+  padding: 0px 6px 1px 6px;
+  border-radius: 4px;
+  margin: 0 0 0 0.5em;
+}
+
+.padding {
+  padding: 2% 0;
+}
+
+.project--padding {
+  padding: 8%;
+}
+
+.project--padding-img {
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+// Project
+
+.project--image {
+  max-width: 1600px;
+}
+
+.project__intro {
+  padding-top: 6vh;
+  padding-bottom: 6vh;
+  min-height: 68vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.project__outro {
+  padding-top: 4%;
+  padding-bottom: 4%;
+}
+
+.project {
+  &__intro-title {
+    animation-duration: 1.25s;
+    animation-delay: 0s;
+  }
+  &__intro-text {
+    animation-duration: 1.125s;
+    animation-delay: 0.125s;
+  }
+  &__intro-category, &__intro-company {
+    animation-duration: 1s;
+    animation-delay: 0.25s;
+  }
+  &__content {
+    animation-duration: 1s;
+    animation-delay: 0.3125s;
+  }
+}
+
+// Flex
+
+.flex {
+  display: flex;
+  justify-content: flex-start;
+  &__item {
+    flex: 1;
+  }
+  &-vert {
+    display: flex;
+    flex-direction: column;
+  }
+    &__item-vert {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+  }
+}
+
+@include large-breakpoint {
+  .flex {
+    flex-direction: column;
+  }
+}
+
+// Coworking with Deskpass
+.coworking {
+  padding: 8% 0;
+
+  &__image-iphone {
+    @extend .coworking;
+    text-align: center;
+    background-color: #1c3747;
+  }
+
+  &--bg {
+    background-color: #1c3747;
+    background: linear-gradient(90deg, #1c3747 50%, #fafaf5 50%);
+  }
+
+}
+
+.iphone {
+  background: url('../images/coworking/iphone.png') no-repeat;
+  position: relative;
+  max-width: 720px;
+  background-size: contain;
+  background-position: center;
+  margin: 0 auto;
+}
+// Getting There
+.gettingthere {
+  padding: 8%;
+
+  &--bg {
+    background-color: #237da0;
+    background: linear-gradient(90deg, #237da0 50%, #fafaf5 50%);
+  }
+
+  &__image {
+    @extend .gettingthere;
+    background-color: #237da0;
+  }
+
+  &__solution {
+    @extend .gettingthere;
+    background-color: #fafaf5;
+  }
+
+  &__results {
+    @extend .gettingthere;
+    background-color: #fafaf5;
+  }
+}
+
+// Spaces
+.spaces {
+  padding: 8%;
+
+  &__video {
+    background-color: #FFE164;
+  }
+  &__video-bg {
+    background-color: #FFE164;
+    background: linear-gradient(90deg, #FFE164 50%, #ffffff 50%);
+  }
+  &__video-text {
+    background-color: #ffffff;
+  }
+}
+
+// Interim Scarves
+
+.interim {
+  padding: 8%;
+  &__logo {
+    @extend .interim;
+    background-color: #b7acb0;
+  }
+  &__logotext {
+    @extend .interim;
+    background-color: #ffffff;
+  }
+  &__logo-bg {
+    background-color: #ffffff;
+    background: linear-gradient(90deg, #b7acb0 50%, #ffffff 50%);
+  }
+  &__typography-bg {
+    background-color: #ffffff;
+    background: linear-gradient(90deg, #ffffff 50%, #b8b9c0 50%);
+  }
+  &__text {
+    padding-top: 4%;
+    padding-bottom: 4%;
+  }
+  &__color {
+    padding: 8% 0;
+    &-1 {
+      @extend .interim__color;
+      background-color: #717380;
+      color: #ffffff;
+    }
+    &-2 {
+      @extend .interim__color;
+      background-color: #B8B9C0;
+      color: #ffffff;
+    }
+    &-3 {
+      @extend .interim__color;
+      background-color: #b7acb0;
+      color: #ffffff;
+    }
+    &-4 {
+      @extend .interim__color;
+      background-color: #FFFFFF;
+      color: #B8B9C0;
+    }
+  }
+  &__typography {
+    @extend .interim;
+    background-color: #b8b9c0;
+    color: #ffffff;
+    &-img {
+      background-color: #ffffff;
+    }
+  }
+}

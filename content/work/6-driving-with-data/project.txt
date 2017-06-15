@@ -1,0 +1,37 @@
+Bg: #cd0719
+
+----
+
+Color: #ffffff
+
+----
+
+Line: 
+
+----
+
+Title: Driving with Data
+
+----
+
+Text: State Farm wanted to take its existing Driver Feedback application a step further and build a companion app for use in driving schools. I collaborated with a team at State Farm’s Research Park visualizing data collected by a tethered phone and designed the UI.
+
+----
+
+Category: User Experience, User Interface
+
+----
+
+Client: State Farm
+
+----
+
+Recognition: Research - Stephany Park
+
+----
+
+Collaborators: User Research - Stephany Park
+
+----
+
+Featured: false

@@ -1,0 +1,13 @@
+Imgbgcolorhex: #f2f2f2
+
+----
+
+Imgalt: An image displaying an internal landing page of the CSBC project.
+
+----
+
+Imgtitle: 
+
+----
+
+Imgcaption: 

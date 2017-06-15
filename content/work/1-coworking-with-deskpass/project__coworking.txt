@@ -1,0 +1,47 @@
+Bg: #1d7ca2
+
+----
+
+Color: #ffffff
+
+----
+
+Line: 
+
+----
+
+Title: Coworking on Demand
+
+----
+
+Text: Deskpass gives members access to over 100 coworking locations in Chicago, New York City, Los Angeles, and Denver for one monthly rate. When building out the platform it was important for the reservation experience to be as agile as the members are. The ability to quickly book a location on-demand was the most necessary feature.
+
+----
+
+Category: Product Design
+
+----
+
+Client: Deskpass
+
+----
+
+Recognition: 
+
+Sam Rosen - Founder
+Ryan Kolak - Engineer
+Tony Adams - Engineer 
+Bryan Purcell - Engineer
+
+----
+
+Collaborators: 
+
+Founder - Sam Rosen
+Engineer - Bryan Purcell
+Engineer - Tony Adams
+Engineer - Ryan Kolak
+
+----
+
+Featured: true
