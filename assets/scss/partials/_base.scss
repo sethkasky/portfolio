@@ -7,6 +7,28 @@ figure {
   line-height: 0;
 }
 
+a.button {
+  &--deskpass {
+    background-color:#1d7ca2;
+    border-radius:4px;
+    border:1px solid #055f82;
+    display:inline-block;
+    cursor:pointer;
+    color:#ffffff;
+    padding:12px 24px;
+    &:hover {
+    	background-color:#055f82;
+      color:#ffffff;
+      text-decoration: none;
+    }
+    &:active {
+    	position:relative;
+    	top:1px;
+      color:#ffffff;
+    }
+  }
+}
+
 // Navigation
 
 .navbar {
@@ -286,12 +308,27 @@ a.home__social-icon:hover {
   &-vert {
     display: flex;
     flex-direction: column;
+    height: 100%;
+    justify-content: space-between;
   }
-    &__item-vert {
+  &__item-vert {
     flex: 1;
     display: flex;
     justify-content: center;
     flex-direction: column;
+  }
+  &__item-vert-top {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  &__item-vert-bottom {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
   }
 }
 
@@ -347,7 +384,9 @@ a.home__social-icon:hover {
 
   &__results {
     @extend .gettingthere;
-    background-color: #fafaf5;
+  }
+  &__results-bg {
+    background-color: #E1E1DC;
   }
 }
 

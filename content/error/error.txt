@@ -7,3 +7,7 @@ Intro: ##The page has not been found.
 ----
 
 Text: Stuff can go wrong sometimes and maybe you mistyped a URL, tapped/clicked on a broken link or your computer just wants to drive you nuts. Anyway…take a look at this beautiful (link: / text: homepage) instead.
+
+----
+
+Link: /

@@ -17,15 +17,15 @@
       </div>
       <div class="flex__item">
         <div class="flex-vert">
-          <div class="flex__item-vert">
+          <div class="flex__item-vert-top">
             <div class="typography gettingthere__solution">
               <h4>Creating a Booking</h4>
               <p>The main determining factor in booking a coworking space on Deskpass boils down to location and hours. It was important for this information to be easily scannable prior to viewing more detailed information about a&nbsp;space.</p>
               <p>Within each description contains photos, location information, hours of operation, amenities, and a small description of the space. Booking is as simple as confirming the date and tapping a&nbsp;button.</p>
-              <p><a class="button" href="https://app.deskpass.com/" target="_blank">Visit Deskpass</a></p>
+              <p><a class="button--deskpass" href="https://app.deskpass.com/" target="_blank">View the App &rarr;</a></p>
             </div>
           </div>
-          <div class="flex__item-vert">
+          <div class="flex__item-vert-bottom">
             <div class="typography gettingthere__results">
               <h4>Built for Expansion</h4>
               <p>When the Deskpass app was built out we initially launched in Chicago and then began to expand to additional cities. The ability to easily expand the platform heavily influenced the design of the app and has worked seamlessly for each new city&nbsp;launch.</p>

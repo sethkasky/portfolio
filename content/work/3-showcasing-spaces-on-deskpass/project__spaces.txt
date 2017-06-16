@@ -1,0 +1,37 @@
+Bg: #F05F5A
+
+----
+
+Color: #ffffff
+
+----
+
+Line: 
+
+----
+
+Title: Showcasing Spaces on Deskpass
+
+----
+
+Text: Deskpass needed a better way to showcase spaces on their platform for a more seamless browsing experience. Previously when visitors wanted to discover more about the locations they only had access to the web app. Implementing individual space pages helps save bandwidth and increase SEO performance.
+
+----
+
+Category: User Experience, Web Design
+
+----
+
+Client: Deskpass
+
+----
+
+Recognition: 
+
+----
+
+Collaborators: 
+
+----
+
+Featured: true

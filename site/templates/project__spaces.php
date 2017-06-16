@@ -20,7 +20,7 @@
       <div class="spaces__video-text">
         <div class="project--padding base-line-height typography">
           <h4>City First</h4>
-          <p>Visitors are targeted spaces based on their location to the nearest Deskpass city. Users can filter spaces based on amenities, location, and can view spaces via a map.</p>
+          <p>Visitors are served up targeted spaces based on their location to the nearest Deskpass city. Users can filter spaces based on amenities and location, or view spaces via a map.</p>
         </div>
       </div>
     </div>
