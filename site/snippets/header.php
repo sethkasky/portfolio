@@ -42,5 +42,6 @@
     <?= css('assets/css/main.css') ?>
     <script src="https://use.typekit.net/cev1apd.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <?php echo ga(); ?>
   </head>
   <body>
