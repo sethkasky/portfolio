@@ -9,3 +9,4 @@
   </footer>
 </body>
 </html>
+<?php echo snippet('ga'); ?>
