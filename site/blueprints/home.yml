@@ -1,6 +1,23 @@
 title: Home
 
 fields:
+  bg:
+    label: Background Hex Color
+    type:  text
+    width: 1/2
+    icon: paint-brush
+    required: true
+
+  color:
+    label: Text Hex Color
+    type:  text
+    width: 1/2
+    icon: paint-brush
+    required: true
+
+  line:
+    type: line
+
   title:
     label: Title
     type:  text

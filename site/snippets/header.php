@@ -42,5 +42,12 @@
     <?= css('assets/css/main.css') ?>
     <script src="https://use.typekit.net/cev1apd.js"></script>
     <script>try{Typekit.load({ async: true });}catch(e){}</script>
+
+    <style media="screen">
+    #preview {
+      position:absolute;
+      display:none;
+    }
+    </style>
   </head>
   <body>

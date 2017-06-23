@@ -1,4 +1,4 @@
-  <footer class="footer" role="contentinfo">
+  <footer class="footer" role="contentinfo" style="color: <?= $page->color()->html() ?>; background-color: <?= $page->bg()->html() ?>;">
     <div class="container">
       <div class="row">
         <div class="col-3">
