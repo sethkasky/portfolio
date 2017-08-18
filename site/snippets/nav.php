@@ -3,7 +3,7 @@
     <div class="row">
       <div class="col-12">
         <a class="nav__name" style="color:<?= $page->color()->html() ?>;" href="<?php echo $site->homePage()->url() ?>">
-            Seth Kasky<span class="nav__name-title">, Graphic Designer</span>
+            Seth Kasky<span class="nav__name-title">, Designer</span>
         </a>
         <?php if($page->isHomePage()): ?>
           <?php else: ?>
