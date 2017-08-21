@@ -6,7 +6,7 @@ Intro: Seth Kasky, Graphic Designer
 
 ----
 
-Text: I'm a Seattle based designer that solves problems at the intersection of  people, technology, & product.
+Text: I'm a Seattle based designer that loves solving problems at the intersection of people, technology, & product.
 
 ----
 
@@ -15,7 +15,7 @@ Irl:
 - <seth@kas.ky>
 - (tel:18725297384 text: 872-529-SETH)
 - &nbsp;
-- (file: sethkasky-2017.pdf text: Download Résumé)
+- (file: sethkasky-resume.pdf text: Download Résumé)
 
 ----
 
