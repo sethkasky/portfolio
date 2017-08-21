@@ -39,9 +39,13 @@
     <meta name="og:site_name" content="Seth Kasky">
     <meta name="og:type" content="website">
 
+    <?php echo js('assets/js/vendor/tippy.min.js') ?>
+    <?= css('assets/css/tippy.css') ?>
+
     <?= css('assets/css/main.css') ?>
+
     <script src="https://use.typekit.net/cev1apd.js"></script>
-    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+    <script>try{Typekit.load({ async: false });}catch(e){}</script>
 
     <style media="screen">
     #preview {

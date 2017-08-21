@@ -3,11 +3,11 @@
 <section class="home__intro">
   <div class="container typography">
     <div class="row">
-      <div class="col-6 home__animation-1 animated fadeIn">
+      <div style="font-size:175%;padding-bottom:0.5em;" class="col-6 home__animation-1 animated fadeIn">
         <?= $page->text()->kirbytext() ?>
-          <p>Thanks for stopping by. Happy
-            <?php echo date('l');?>!</p>
       </div>
+    </div>
+    <div class="row">
       <div class="col-3 home__animation-2 animated fadeIn">
         <?= $page->irl()->kirbytext() ?>
       </div>
@@ -24,3 +24,15 @@
 </section>
 <?php snippet('home__work') ?>
 <?php snippet('home__footer') ?>
+<script type="text/javascript">
+tippy('.tippy', {
+  theme: 'kasky',
+  followCursor: 'true',
+  inertia: 'true',
+  position: 'top',
+  animation: 'perspective',
+  duration: 500,
+  distance: 5,
+  interactive: 'true',
+})
+</script>
