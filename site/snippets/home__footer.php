@@ -12,6 +12,7 @@
       </div>
     </div>
   </footer>
+  <?php snippet('tab-message') ?>
 </body>
 </html>
 <?php echo snippet('ga'); ?>

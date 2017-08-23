@@ -46,6 +46,7 @@
 
     <script src="https://use.typekit.net/cev1apd.js"></script>
     <script>try{Typekit.load({ async: false });}catch(e){}</script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
     <style media="screen">
     #preview {
