@@ -1,8 +1,8 @@
-Bg: #ffcd10
+Bg: #000000
 
 ----
 
-Color: #222222
+Color: #ffffff
 
 ----
 
@@ -42,3 +42,7 @@ Art Director - Dave Rawlins
 ----
 
 Featured: false
+
+----
+
+Previewimage: 
