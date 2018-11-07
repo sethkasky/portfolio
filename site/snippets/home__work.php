@@ -135,19 +135,6 @@
             </div>
           </a>
         </li>
-        <li class="row">
-          <a href="work/crop-to-cup" class="tippy" title="<img src='assets/images/home/crop-to-cup.jpg' width='200'>">
-            <div class="col-6 col-11-sm home__projects-title">
-              Crop to Cup
-            </div>
-            <div class="col-5 home__projects-category hidden-sm">
-              Digital Publication
-            </div>
-            <div class="col-1 col-1-sm text-right home__projects-arrow">
-              &rarr;
-            </div>
-          </a>
-        </li>
       </ul>
     </div>
   </div>
