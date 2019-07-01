@@ -87,7 +87,7 @@ a.button {
     display: inline-block;
     text-decoration: none;
     transition: opacity 0.125s ease-in-out;
-    font-weight: 700;
+    font-weight: 400;
     opacity: 0.5;
     &:hover {
       opacity: 1;
@@ -122,14 +122,12 @@ a.button {
   background-color: rgba(0, 0, 0, .75);
   color: $text-reverse;
   font-size: 80%;
-  letter-spacing: 0.0125em;
-  font-weight: 700;
+  font-weight: 400;
   &__home {
     padding-bottom: 2%;
     color: #A2AAAD;
     font-size: 80%;
-    letter-spacing: 0.0125em;
-    font-weight: 700;
+    font-weight: 400;
   }
 }
 
@@ -185,6 +183,9 @@ a.button {
         text-decoration: none;
         border-bottom: 1px solid rgba(255,255,255,0.5);
       }
+    }
+    &-text {
+      font-family: $alt-font-family;
     }
     &-top {
       height: 50%;
@@ -311,7 +312,7 @@ a.home__social-icon:hover {
   display: inline-block;
   background-color: #2E008B;
   color: white;
-  padding: 0px 6px 1px 6px;
+  padding: 0px 6px 0px 6px;
   border-radius: 4px;
   margin: 0 0 0 0.5em;
 }

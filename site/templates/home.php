@@ -3,7 +3,7 @@
 <section class="home__intro">
   <div class="container typography">
     <div class="row">
-      <div style="font-size:175%;padding-bottom:0.5em;" class="col-6 home__animation-1 animated fadeIn">
+      <div style="font-size:200%;padding-bottom:0.5em;" class="col-6 home__intro-text home__animation-1 animated fadeIn">
         <?= $page->text()->kirbytext() ?>
       </div>
     </div>

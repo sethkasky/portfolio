@@ -2,7 +2,7 @@
     <div class="container">
       <div class="row">
         <div class="col-6">
-          <p>Thanks for stopping by. Happy <?php echo date('l');?>! ✌️</p>
+          <p>Thanks for stopping by. Happy <?php echo date('l');?>.</p>
         </div>
         <div class="col-6">
           <p>

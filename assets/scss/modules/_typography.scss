@@ -10,10 +10,12 @@ $link-color: #d54aaf;
 $link-hover-color: saturate(#d54aaf, 20%);
 // $link-visited-color: purple;
 
-$base-font-family: "europa", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
+$base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size: 18px;
 $base-font-weight: 400;
 $base-line-height: 1.6;
+
+$alt-font-family: 'charter_regular', Georgia, serif;
 
 $fixed-font-family: "Roboto Mono", "Lucida Console", Monaco, monospace;
 $fixed-font-size: 15px;
@@ -27,6 +29,15 @@ $font-weight-light: 300;
 $font-weight-regular: 400;
 $font-weight-medium: 500;
 $font-weight-heavy: 700;
+
+@font-face {
+    font-family: 'charter_regular';
+    src: url('../fonts/charter_regular-webfont.eot');
+    src: url('../fonts/charter_regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/charter_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
 
 .font-light {
   font-weight: $font-weight-light;
@@ -85,7 +96,8 @@ body {
 .italic { font-style: italic; }
 .bold   { font-weight: 700; @extend .loud; }
 
-.h1, .h2, .h3, .h4, .h5, .h6 { font-family: $heading-font-family; font-weight: $heading-font-weight; }
+.h1 {font-family: $alt-font-family;font-weight: 400;}
+.h2, .h3, .h4, .h5, .h6 { font-family: $heading-font-family; font-weight: $heading-font-weight; }
 .h1, .h2 { line-height: 1.1; }
 .h3, .h4 { line-height: 1.3; font-weight: $font-weight-heavy; }
 .h1 { font-size: 200%; }

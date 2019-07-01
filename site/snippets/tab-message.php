@@ -5,7 +5,7 @@ $(function() {
 
   // Change page title on blur
   $(window).blur(function() {
-    $("title").text("Hey! Where'd you go? · " + pageTitle);
+    $("title").text("Psst...over here · " + pageTitle);
   });
 
   // Change page title back on focus
